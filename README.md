@@ -1,2 +1,6 @@
 # wordle-solver
 probando cosas
+
+
+
+
